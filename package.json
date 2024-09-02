@@ -32,7 +32,7 @@
   "dependencies": {
     "@azure/identity": "3.3.0",
     "adp-messaging": "2.9.0",
-    "applicationinsights": "2.7.3",
+    "applicationinsights": "2.9.5",
     "joi": "17.10.0",
     "notifications-node-client": "7.0.3",
     "pg": "8.11.3",
