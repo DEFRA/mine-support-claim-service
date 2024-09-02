@@ -35,7 +35,7 @@
     "applicationinsights": "2.7.3",
     "joi": "17.10.0",
     "notifications-node-client": "7.0.3",
-    "pg": "8.11.3",
+    "pg": "8.12.0",
     "pg-hstore": "2.3.4",
     "sequelize": "6.32.1"
   },
