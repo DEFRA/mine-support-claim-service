@@ -30,7 +30,7 @@
   ],
   "license": "OGL-UK-3.0",
   "dependencies": {
-    "@azure/identity": "3.3.0",
+    "@azure/identity": "3.4.2",
     "adp-messaging": "2.9.0",
     "applicationinsights": "2.7.3",
     "joi": "17.10.0",
